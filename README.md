@@ -116,3 +116,9 @@ If you find our code or paper helps, please consider citing:
 
 ## Contact
 [Kwon Byung-Ki](https://sites.google.com/view/kwon-byung--ki/%ED%99%88) (byungki.kwon@postech.ac.kr)
+
+## License
+
+This project is licensed under the [PolyForm Noncommercial License 1.0.0](LICENSE).
+
+**Academic and research use is permitted for noncommercial purposes. Commercial use is not permitted.**
